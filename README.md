@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Nombres y Apellidos: Jhoan Antoni Cruz Castillo
+### Jhoan Antoni Cruz Castillo
 
 <!--
 **Jhoan2-cpu/Jhoan2-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
